@@ -1,6 +1,5 @@
-<b>
 ```python
-
+<b>
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 
@@ -27,6 +26,6 @@ class Developer(Human, InformationMixin):
 
 sty = Developer('Seyed-Taher-Yaghoubi', 'Iran','Tehran' ,'Persian')   
 sty.say_hello()
+</b>
 
 ```
-</b>
