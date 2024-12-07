@@ -15,4 +15,4 @@
 - **[AI Image Processing Models](#)**: Implemented models for object detection.
 
 ### 📫 Reach Me
-- [LinkedIn](#) | [Website](#) | [Email](mailto:amirabbas@example.com)
+- [LinkedIn](#) | [Website](#) | [Email](#yaghoubiseidtaher@gmail.com)
