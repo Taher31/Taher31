@@ -7,6 +7,7 @@
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![Django](https://img.shields.io/badge/-Django-333?logo=django)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?logo=tensorflow)
 ![HTML](https://img.shields.io/badge/-HTML-333?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?logo=css3)
