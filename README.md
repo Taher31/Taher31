@@ -1,28 +1,18 @@
-```python
-from abc import ABC, abstractmethod
-from dataclasses import dataclass
+## Hi, I'm Amirabbas Jafari 👋
 
+- 🎓 Third-year student in Civil Engineering & Environmental Science at Sharif University.
+- 💼 Data Analyst at Waiotech | Startup founder in water & environment.
+- 🛠️ Working with AI, image processing, and machine learning models.
+- 🌱 Passionate about solving water/environmental challenges using technology.
 
-class Human(ABC):
-    @abstractmethod
-    def say_hello(self):
-        pass
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?logo=tensorflow)
+...
 
+### 🚀 Current Projects
+- **[Water Quality Prediction System](#)**: A digital twin-based water treatment platform.
+- **[AI Image Processing Models](#)**: Implemented models for object detection.
 
-@dataclass
-class InformationMixin:
-    full_name: str
-    location: str
-    language: str
-
-
-@dataclass
-class Developer(Human, InformationMixin):
-
-    def say_hello(self):
-        print('Glad to see you here.')      
-        
-
-sty = Developer('Seyed-Taher-Yaghoubi', 'Iran','Tehran' ,'Persian')   
-sty.say_hello()
-```
+### 📫 Reach Me
+- [LinkedIn](#) | [Website](#) | [Email](mailto:amirabbas@example.com)
