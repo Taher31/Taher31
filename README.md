@@ -1,6 +1,6 @@
 ## Hi, I'm Amirabbas Jafari 👋
 
-- 🎓 Third-year student in Civil Engineering & Environmental Science at Sharif University.
+- 🎓 student in Civil Engineering & Environmental Science at [Sharif University of technology](https://en.sharif.ir/).
 - 💼 Data Analyst at Waiotech | Startup in water & environment.
 - 🛠️ Working with AI, image processing, and machine learning models.
 - 🌱 Passionate about solving water/environmental challenges using technology.
