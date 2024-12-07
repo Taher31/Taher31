@@ -1,7 +1,7 @@
 ## Hi, I'm Amirabbas Jafari 👋
 
 - 🎓 Third-year student in Civil Engineering & Environmental Science at Sharif University.
-- 💼 Data Analyst at Waiotech | Startup founder in water & environment.
+- 💼 Data Analyst at Waiotech | Startup in water & environment.
 - 🛠️ Working with AI, image processing, and machine learning models.
 - 🌱 Passionate about solving water/environmental challenges using technology.
 
