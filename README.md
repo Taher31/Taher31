@@ -1,4 +1,4 @@
-## Hi, I'm Amirabbas Jafari 👋
+## Hi, I'm Seyed Taher Yaghoubi 👋
 
 - 🎓 student in Civil Engineering & Environmental Science at [Sharif University of technology](https://en.sharif.ir/).
 - 💼 Data Analyst at Waiotech | Startup in water & environment.
