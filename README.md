@@ -6,6 +6,8 @@
 - 🌱 Passionate about solving water/environmental challenges using technology.
 
 ### Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?logo=tensorflow)
 ![HTML](https://img.shields.io/badge/-HTML-333?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
